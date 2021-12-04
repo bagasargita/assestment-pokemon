@@ -1,0 +1,31 @@
+* {
+  box-sizing: border-box;
+}
+
+.search-bar {
+  text-decoration: none;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.test {
+  display: flex;
+}
+
+.pagination {
+  width: 500px;
+  display: flex;
+  margin: auto;
+  list-style: none;
+  justify-content: space-between;
+  margin-top: 10px;
+  padding: 10px;
+  background-color: aliceblue;
+  border-radius: 10px;
+}
+.button-catch {
+  display: flex;
+  justify-content: center;
+}
